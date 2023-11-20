@@ -1,5 +1,5 @@
 setTimeout(()=>{
-    console.log('surya');
-},);
+    console.log('how are you');
+},1);
 
-console.log('teja');
+console.log("hello "+"surya");
